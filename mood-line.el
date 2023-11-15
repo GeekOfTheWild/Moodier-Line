@@ -899,6 +899,6 @@ Checkers checked, in order: `flycheck', `flymake'."
 ;;
 ;; -------------------------------------------------------------------------- ;;
 
-(provide 'mood-line)
+(provide 'moodier-line)
 
 ;;; mood-line.el ends here
