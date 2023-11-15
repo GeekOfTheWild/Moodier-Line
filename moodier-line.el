@@ -829,7 +829,7 @@ Checkers checked, in order: `flycheck', `flymake'."
                      '(" "
                        (:eval (mood-line-segment-modal))
                        (:eval (mood-line-segment-buffer-status))
-                       "  "
+                       (:eval (just-one-space))
                        (:eval (breadcrumb-project-crumbs))
                        (:eval (mood-line-segment-anzu))
                        (:eval (mood-line-segment-multiple-cursors))
